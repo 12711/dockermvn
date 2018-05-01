@@ -1,0 +1,1 @@
+java $JAVA_OPTS  -jar /dockermvn.jar
